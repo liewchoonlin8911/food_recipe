@@ -1,0 +1,5 @@
+use_frameworks!
+target 'food_recipe' do
+    pod 'AEXML'
+    pod 'DropDown'
+end

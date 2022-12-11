@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Food System="ios">
+	<Recipe1 Type="curry"></Recipe1>
+	<Recipe2 Type="rojak"></Recipe2>
+</Food>

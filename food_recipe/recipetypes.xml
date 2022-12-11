@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IOS System="ios">
+    <Recipe Type="Breakfast recipes">
+        <Food Type = "Chia Pudding">
+            <Image URL = "curry.png"></Image>
+            <ShortTerm description = "Chia pudding is my easy breakfast option on busy mornings. You will love this chia pudding made with coconut milk and coconut sugar. Top with your favorite seasonal fruits and nuts and enjoy it."></ShortTerm>
+
+        </Food>
+        
+        <Food Type = "Chia Pudding2">
+            <Image URL = "curry.png"></Image>
+            <ShortTerm description = "Chia pudding is my easy breakfast option on busy mornings. You will love this chia pudding made with coconut milk and coconut sugar. Top with your favorite seasonal fruits and nuts and enjoy it."></ShortTerm>
+
+        </Food>
+        
+    </Recipe>
+    <Recipe Type="Lunch recipes">
+        <Food Type = "zzzzzzzzzzz">
+            <Image URL = "curry.png"></Image>
+            <ShortTerm description = "Chia pudding is my easy breakfast option on busy mornings. You will love this chia pudding made with coconut milk and coconut sugar. Top with your favorite seasonal fruits and nuts and enjoy it."></ShortTerm>
+
+        </Food>
+        <Food Type = "hahahah">
+            <Image URL = "curry.png"></Image>
+            <ShortTerm description = "Chia pudding is my easy breakfast option on busy mornings. You will love this chia pudding made with coconut milk and coconut sugar. Top with your favorite seasonal fruits and nuts and enjoy it."></ShortTerm>
+
+        </Food>
+    </Recipe>
+    <Recipe Type="Dinner recipes">
+        <Food Type = "hehe">
+            <Image URL = "curry.png"></Image>
+            <ShortTerm description = "Chia pudding is my easy breakfast option on busy mornings. You will love this chia pudding made with coconut milk and coconut sugar. Top with your favorite seasonal fruits and nuts and enjoy it."></ShortTerm>
+
+        </Food>
+        <Food Type = "lol">
+            <Image URL = "curry.png"></Image>
+            <ShortTerm description = "Chia pudding is my easy breakfast option on busy mornings. You will love this chia pudding made with coconut milk and coconut sugar. Top with your favorite seasonal fruits and nuts and enjoy it."></ShortTerm>
+
+        </Food>
+    </Recipe>
+    <Recipe Type="Appetizer recipes">
+        <Food Type = "4">
+            <Image URL = "curry.png"></Image>
+            <ShortTerm description = "Chia pudding is my easy breakfast option on busy mornings. You will love this chia pudding made with coconut milk and coconut sugar. Top with your favorite seasonal fruits and nuts and enjoy it."></ShortTerm>
+
+        </Food>
+        <Food Type = "4">
+            <Image URL = "curry.png"></Image>
+            <ShortTerm description = "Chia pudding is my easy breakfast option on busy mornings. You will love this chia pudding made with coconut milk and coconut sugar. Top with your favorite seasonal fruits and nuts and enjoy it."></ShortTerm>
+
+        </Food>
+    </Recipe>
+    <Recipe Type="Salad recipes">
+        <Food Type = "5">
+            <Image URL = "curry.png"></Image>
+            <ShortTerm description = "Chia pudding is my easy breakfast option on busy mornings. You will love this chia pudding made with coconut milk and coconut sugar. Top with your favorite seasonal fruits and nuts and enjoy it."></ShortTerm>
+
+        </Food>
+        <Food Type = "5">
+            <Image URL = "curry.png"></Image>
+            <ShortTerm description = "Chia pudding is my easy breakfast option on busy mornings. You will love this chia pudding made with coconut milk and coconut sugar. Top with your favorite seasonal fruits and nuts and enjoy it."></ShortTerm>
+
+        </Food>
+    </Recipe>
+    <Recipe Type="Maincourse recipes">
+        <Food Type = "6">
+            <Image URL = "curry.png"></Image>
+            <ShortTerm description = "Chia pudding is my easy breakfast option on busy mornings. You will love this chia pudding made with coconut milk and coconut sugar. Top with your favorite seasonal fruits and nuts and enjoy it."></ShortTerm>
+
+        </Food>
+        <Food Type = "6">
+            <Image URL = "curry.png"></Image>
+            <ShortTerm description = "Chia pudding is my easy breakfast option on busy mornings. You will love this chia pudding made with coconut milk and coconut sugar. Top with your favorite seasonal fruits and nuts and enjoy it."></ShortTerm>
+
+        </Food>
+    </Recipe>
+    <Recipe Type="Sidedish recipes">
+        <Food Type = "7">
+            <Image URL = "curry.png"></Image>
+            <ShortTerm description = "Chia pudding is my easy breakfast option on busy mornings. You will love this chia pudding made with coconut milk and coconut sugar. Top with your favorite seasonal fruits and nuts and enjoy it."></ShortTerm>
+
+        </Food>
+        <Food Type = "7">
+            <Image URL = "curry.png"></Image>
+            <ShortTerm description = "Chia pudding is my easy breakfast option on busy mornings. You will love this chia pudding made with coconut milk and coconut sugar. Top with your favorite seasonal fruits and nuts and enjoy it."></ShortTerm>
+
+        </Food>
+        <Food Type = "7">
+            <Image URL = "curry.png"></Image>
+            <ShortTerm description = "Chia pudding is my easy breakfast option on busy mornings. You will love this chia pudding made with coconut milk and coconut sugar. Top with your favorite seasonal fruits and nuts and enjoy it."></ShortTerm>
+
+        </Food>
+    </Recipe>
+</IOS>
+
+
